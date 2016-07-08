@@ -1,0 +1,2 @@
+# Devinder
+practice of sql
